@@ -37,3 +37,9 @@ php artisan db:seed
 php artisan serve
 
 10. Abre tu navegador y visita http://localhost:8000 para ver la aplicación.
+usuario: admin@example.com
+Pass: Admin*123  
+
+tambien puedes ver una demo como funciona la aplicacion desde pruebatecnica.sysprossv.com
+usuario: admin@sysprossv.com
+Pass: Admin*123
