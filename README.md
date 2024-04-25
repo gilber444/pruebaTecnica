@@ -7,7 +7,7 @@ Sigue estos pasos para instalar y configurar el sistema:
 
 1. Clona el repositorio en tu máquina local:
 
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/gilber444/pruebaTecnica.git
 
 2. Instala las dependencias del proyecto:
 composer install
